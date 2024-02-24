@@ -1,4 +1,5 @@
 # Landing page of Amazon.in
-![Screenshot (314)](https://github.com/Moinak-Developer/Projects/assets/161134926/171c2e85-e2dc-4e0a-b888-2f85699d64e1)
-![Screenshot (313)](https://github.com/Moinak-Developer/Projects/assets/161134926/c58efb66-9905-4dfc-8c04-ea37ee5172bc)
-![Screenshot (312)](https://github.com/Moinak-Developer/Projects/assets/161134926/3e190d72-a913-4a4a-b8e1-dba5e308915c)
+
+![Screenshot (312)](https://github.com/Moinak-Developer/Projects/assets/161134926/9d6b377c-b037-428d-94c9-3102a3dc4e85)
+![Screenshot (313)](https://github.com/Moinak-Developer/Projects/assets/161134926/85bc07c6-f794-435e-93a3-e8ef24567431)
+![Screenshot (314)](https://github.com/Moinak-Developer/Projects/assets/161134926/30b77725-3444-411b-a115-db4a2e7ab565)
